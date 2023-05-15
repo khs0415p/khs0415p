@@ -1,4 +1,10 @@
-### Hi there 👋
+### I'm interested in
+
+- Machine Learning / Deep Learning (Natural Language Processing)
+- Software development
+
+---
+
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=khs0415p)](https://solved.ac/khs0415p/)
 
