@@ -26,6 +26,11 @@
   </div>
   
   <br>
+  <h3>Top Languages</h3>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khs0415p&hide=jupyter%20notebook)](https://github.com/khs0415p/github-readme-stats)
+  
+  <br>
   
   <h3>Algorithm</h3>
   
@@ -33,9 +38,6 @@
   
 </div>
 
-
-
- 
 </div>
 <!--
 **khs0415p/khs0415p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
